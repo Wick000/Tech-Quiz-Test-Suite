@@ -15,6 +15,7 @@
     "seed": "cd server && npm run seed",
     "render-build": "npm install && npm run build",
     "test": "npx cypress run --browser electron",
+    "test-all": "npm run test-component && npm run test --headless",
     "test-component": "npx cypress run --component",
     "test-gui": "npx cypress open"
   },
