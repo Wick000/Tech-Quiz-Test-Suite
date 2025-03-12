@@ -9,7 +9,8 @@ Taking the starter codebase of a fully functioning Tech Quiz application and enh
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
+- [Link](#link)
+- [Screenshot](#screenshot)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
@@ -23,10 +24,14 @@ Run the following command to install dependencies:
 npm i
 ```
 
-## Usage
+# Link
+
+[Click here to watch the youtube link!!!!](https://youtu.be/kJZg48_Hxos)
+
+## Screenshot
 
 
-
+![Cypress](image.png)
 
 ## License
 
@@ -41,7 +46,7 @@ Hit me up for details!
 Run the following command to run tests:
 
 ```
-npm run build, npm run start:dev frontend run npm run test-gui
+npm run build, npm run seed, npm run start:dev. from cypress run npm run test-gui and npm run test-all
 ```
 
 ## Questions
